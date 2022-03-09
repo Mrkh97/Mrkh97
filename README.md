@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mrkh97
-- 👀 I’m interested in coding ,gaming ,driving 
+- 👀 I’m interested in coding ,gaming  
 - 🌱 I’m currently learning web development
 - 📫 reach me on mkhorasanchian@gmail.com
 
