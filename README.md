@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mrkh97
+- 👋 Hi, I’m Mohammadreza
 - 👀 I’m interested in coding ,gaming  
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently working as a mobile and web developer using flutter and react
 - 📫 reach me on mkhorasanchian@gmail.com
 
 <!---
